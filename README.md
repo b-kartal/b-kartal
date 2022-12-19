@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilal Kartal.
 - 👀 I’m interested in autonomous agents.
--TODO(b-kartal): update this page further ;) 
+- TODO(b-kartal): update this page further ;) 
 
 <!---
 b-kartal/b-kartal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
